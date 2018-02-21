@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/res">
+        <file alias="1_01">res/1_01.jpg</file>
+        <file alias="1_02">res/1_02.jpg</file>
+        <file alias="1_03">res/1_03.jpg</file>
+        <file alias="1_04">res/1_04.jpg</file>
+        <file alias="2_01">res/2_01.jpg</file>
+        <file alias="2_02">res/2_02.jpg</file>
+        <file alias="2_03">res/2_03.jpg</file>
+        <file alias="2_04">res/2_04.jpg</file>
+        <file alias="3_01">res/3_01.jpg</file>
+        <file alias="3_02">res/3_02.jpg</file>
+        <file alias="3_03">res/3_03.jpg</file>
+        <file alias="3_04">res/3_04.jpg</file>
+        <file alias="3_05">res/3_05.jpg</file>
+        <file alias="3_06">res/3_06.jpg</file>
+        <file alias="4_02">res/4_02.jpg</file>
+        <file alias="4_03">res/4_03.jpg</file>
+        <file alias="4_05">res/4_05.jpg</file>
+        <file alias="4_07">res/4_07.jpg</file>
+        <file alias="4_04">res/4_04.jpg</file>
+        <file alias="4_01">res/4_01.jpg</file>
+        <file alias="bg1">res/bg_01.jpg</file>
+        <file alias="5_01">res/5_01.wav</file>
+        <file alias="0_01">res/0_01.jpg</file>
+        <file alias="0_02">res/0_02.jpg</file>
+        <file alias="0_03">res/0_03.jpg</file>
+        <file alias="0_04">res/0_04.jpg</file>
+        <file alias="0_05">res/0_05.jpg</file>
+        <file alias="0_06">res/0_06.jpg</file>
+        <file alias="0_07">res/0_07.jpg</file>
+        <file alias="0_08">res/0_08.jpg</file>
+        <file alias="0_09">res/0_09.jpg</file>
+        <file alias="0_10">res/0_10.jpg</file>
+        <file alias="0_00">res/0_00.jpg</file>
+        <file alias="bg2">res/bg_02.jpg</file>
+        <file alias="bg3">res/bg_03.jpg</file>
+        <file alias="bg4">res/bg_04.jpg</file>
+        <file alias="bg5">res/bg_05.png</file>
+    </qresource>
+</RCC>
